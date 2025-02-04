@@ -1,0 +1,2 @@
+# AzureApp
+Application for AI
